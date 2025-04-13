@@ -32,7 +32,7 @@ Despite the model's **40% accuracy**, it demonstrates my initial dive into **NLP
 
 1. Clone this repository:
    ```bash
-   git clone <your-repository-link>
+   git clone https://github.com/priya-200/Next-Word-Prediction.git
 2. Install the necessary dependencies:
 
 ```bash
