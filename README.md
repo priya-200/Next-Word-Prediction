@@ -57,7 +57,7 @@ streamlit run app.py
 3. Prediction: Enter a sentence into the Streamlit app, and the model will predict the next word based on the provided input.
 
 ## ⚙️ Files Overview
-1.best_model.h5: The trained LSTM model.
+1. best_model.h5: The trained LSTM model.
 
 2. tokenizer.pickle: The tokenizer used to preprocess the text.
 
@@ -66,7 +66,7 @@ streamlit run app.py
 4. requirements.txt: Python dependencies for the project.
 
 ## 🚀 Future Enhancements
--Train the model on larger datasets for better accuracy.
+- Train the model on larger datasets for better accuracy.
 
 - Implement GPU support to speed up the training process.
 
